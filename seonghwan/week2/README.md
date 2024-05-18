@@ -1,4 +1,6 @@
-# JavaScript 기초
+# JavaScript 기초 & UNIX Command Line
+
+# Java Script 기초
 
 ## 자료형
 
@@ -474,7 +476,7 @@ let 배열이름 = [
 
 ---
 
-# 유닉스 커맨드라인
+# UNIX Command Line
 
 - 커맨드
     - date : 현재 시간과 날짜 출력
