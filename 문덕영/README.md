@@ -1,7 +1,5 @@
 # 2주차 - 자바스크립트 기초 및 UNIX 명령어
 
-# 2주차 - 자바스크립트 기초 및 UNIX 명령어
-
 **CLI vs GUI**
 
 **CLI** : Command Line Interface. 터미널과 같은 검은 화면에서 커맨드 라인을 다루는 인터페이스
